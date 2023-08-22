@@ -1,0 +1,14 @@
+[22-Aug-2023 11:11:08 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[22-Aug-2023 11:15:12 UTC] PHP Warning:  Undefined array key "position" in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 696
+[22-Aug-2023 11:15:12 UTC] PHP Warning:  Undefined array key "position" in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 696
+[22-Aug-2023 11:15:12 UTC] PHP Warning:  Undefined array key "position" in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 696
+[22-Aug-2023 11:15:12 UTC] PHP Warning:  Undefined array key "position" in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 696
+[22-Aug-2023 11:15:12 UTC] PHP Warning:  Undefined array key "position" in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 696
+[22-Aug-2023 11:15:12 UTC] PHP Warning:  Undefined array key "position" in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 696
+[22-Aug-2023 11:15:12 UTC] PHP Warning:  Undefined array key "position" in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 696
+[22-Aug-2023 11:15:12 UTC] PHP Warning:  Undefined array key "position" in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 696
+[22-Aug-2023 11:15:12 UTC] PHP Warning:  Undefined array key "position" in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 696
+[22-Aug-2023 11:15:12 UTC] PHP Warning:  Undefined array key "position" in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 696
+[22-Aug-2023 11:15:38 UTC] PHP Warning:  Undefined array key "position" in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 696
+[22-Aug-2023 11:32:50 UTC] PHP Warning:  Undefined array key "position" in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 696
+[22-Aug-2023 11:32:51 UTC] PHP Warning:  Undefined array key "position" in /Users/imanepro4/Local Sites/planty/app/public/wp-includes/customize/class-wp-customize-nav-menu-item-setting.php on line 696
